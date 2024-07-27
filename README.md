@@ -1,6 +1,6 @@
 # Restaurant Website
 
-[View the Project]([https://github.com/IshitaSingh-28/restaurant](https://ishitasingh-28.github.io/restaurant/))
+[View the Project]([https://github.com/IshitaSingh-28/restaurant](https://ishitasingh-28.github.io/restaurant/)](https://ishitasingh-28.github.io/restaurant/))
 
 ## Description
 
