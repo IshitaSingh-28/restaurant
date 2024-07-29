@@ -1,9 +1,10 @@
 # Restaurant Website
 
-[View the Project]([https://github.com/IshitaSingh-28/restaurant](https://ishitasingh-28.github.io/restaurant/)](https://ishitasingh-28.github.io/restaurant/))
+[View the Project](https://ishitasingh-28.github.io/restaurant/)
 
 ## Description
 
+You can copy and paste this directly into your README.md file on GitHub. Let me know if this works for you!
 The Restaurant Website is a fully responsive web application designed to provide a modern user interface and user experience for restaurant-related services. Built using ReactJS, this project aims to offer an intuitive and visually appealing platform for users to explore restaurant menus and place orders.
 
 ## Features
